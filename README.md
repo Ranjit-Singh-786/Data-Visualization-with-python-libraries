@@ -1,7 +1,8 @@
 # matplotlib-and-seaborn-beginer-to-advance
 matplotlib & Seaborn
-in this repository, i will cover up all the chart of matplotlib &amp; Seaborn ,and guys trust me ,all concept of matplotlib and Seaborn , beginners to adavance,. i has completed in this repository !!!
-<b>SEABORN</b>
+in this repository, i will cover up all the chart of matplotlib &amp; Seaborn ,and guys trust me ,all concept of matplotlib and Seaborn , beginners to adavance,. i has completed in this repository !!!<br>
+in the matplot.ipynb all chart of matplotlib<br>
+<b>SEABORN</b><br>
 <b>1. Numerical data ploting</b>
 <ul>
     <li>relplot()</li>
