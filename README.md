@@ -2,7 +2,7 @@
 
 
 # matplotlib-and-seaborn-plotly-cufflinks-beginer-to-advance
-matplotlib & Seaborn
+
 in this repository, i will cover up all the chart of matplotlib &amp; Seaborn, plotly , cufflinks , !!!<br>
 in the matplot.ipynb all chart of matplotlib<br>
 <b>SEABORN</b><br>
